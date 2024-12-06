@@ -26,3 +26,33 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefnabil2030&show_icons=true&locale=en" alt="youssefnabil2030" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefnabil2030&" alt="youssefnabil2030" /></p>
+
+# Youssef Nabil Samir - Portfolio
+
+Welcome to my GitHub portfolio! Below are some of the key projects I have worked on:
+
+## Projects
+
+### 1. [Y# Programming Language](https://github.com/youssefnabil2030/Y-Programming-Language)
+A high-performance, compiled programming language built on Python.
+
+### 2. [Vulnerability Scanner (VScan)](https://github.com/youssefnabil2030/VScan)
+A pentesting tool for automating vulnerability detection in websites.
+
+### 3. [Netflix Clone](https://github.com/youssefnabil2030/Netflix-Clone)
+A fully responsive web application mimicking the Netflix UI.
+
+### 4. [To-Do List Web App](https://github.com/youssefnabil2030/To-Do-List)
+A task management app built with JavaScript for organizing personal tasks.
+
+### 5. [Growth Application](https://github.com/youssefnabil2030/GrowthApp)
+A Flutter-based app designed to help businesses create and manage mobile applications.
+
+---
+
+## Skills
+
+- **Programming Languages**: C, C++, Python, Java, JavaScript, PHP, Dart, Flutter
+- **Frameworks**: Bootstrap, jQuery, MySQL
+- **Technologies**: Cybersecurity, Malware Analysis, Full-Stack Web Development, Game Development
+
