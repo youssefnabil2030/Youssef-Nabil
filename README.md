@@ -27,9 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefnabil2030&" alt="youssefnabil2030" /></p>
 
-# Youssef Nabil Samir - Portfolio
 
-Welcome to my GitHub portfolio! Below are some of the key projects I have worked on:
 
 ## Projects
 
